@@ -1,0 +1,3 @@
+start - Reply with a greeting
+help - Show all possible commands and usage instructions
+system - Show system information
