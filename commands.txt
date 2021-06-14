@@ -1,3 +1,5 @@
+List with all commands and their description - in the format the BotFather can read it
+
 start - Reply with a greeting
 help - Show all possible commands and usage instructions
 system - Show system information

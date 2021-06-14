@@ -1,0 +1,7 @@
+package rester
+
+import "fmt"
+
+func main() {
+	fmt.Println("vim-go")
+}
